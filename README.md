@@ -5,13 +5,13 @@ A high-end, modern Task Management application designed with a sleek "Neon-Dark"
 ---
 
 ## 📍 Table of Contents
-- [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Key Features](#key-features)
-- [Built With](#built-with)
-- [What I Learned](#what-i-learned)
-- [Future Enhancements](#future-enhancements)
+- [Overview](#-overview)
+- [Screenshot](#-screenshot)
+- [Links](#-links)
+- [Key Features](#-key-features)
+- [Built With](#-built-with)
+- [What I Learned](#-what-i-learned)
+- [Future Enhancements](#-future-enhancements)
 
 ---
 
