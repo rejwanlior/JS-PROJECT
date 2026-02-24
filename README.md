@@ -30,7 +30,7 @@ Additionally, the app demonstrates asynchronous programming by fetching initial 
 
 ## 🔗 Links
 - **Code:** [View on GitHub](https://github.com/rejwanlior/Task-Manager)
-- **Live Preview:** [Visit Live Site](https://rejwanlior.github.io/Task-Manager)
+- **Live Preview:** [Visit Live Site](https://rejwanlior.github.io/JS-PROJECT/)
 
 ---
 
