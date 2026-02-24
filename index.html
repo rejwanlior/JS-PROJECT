@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>Task Manager</h1>
+    </header>
+
+    <main>
+        <div class="frame">
+            <form>
+                <input type="text" id="taskInput" placeholder="What is your task?" />
+                <input type="date" id="dateInput" />
+                <button type="button" id="addBtn" onclick="addTask()">Add Task</button>
+            </form>
+            
+            <div class="controls">
+                <button type="button" id="showAll">All</button>
+                <button type="button" id="showCompleted">Completed</button>
+                <button type="button" id="showActive">Active</button>
+                <button type="button" id="sortDate">Sort By Date</button>
+            </div>
+
+            <ul id="taskList"></ul>
+        </div>
+    </main>
+    
+    <footer>
+        <p>Copyright © 2026 by Lior Rejwan</p>
+    </footer>
+
+</body>
+
+</html>
